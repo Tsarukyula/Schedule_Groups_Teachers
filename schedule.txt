@@ -1,0 +1,262 @@
+Schedule = {
+ groups: [
+{
+"name": "27E",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=1&classId=2454bdfb-ff51-44c6-9a05-cb8c071a306b"
+},
+{
+"name": "30E",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=1&classId=d23b57af-8e42-46af-9365-01360a4313eb"
+},
+{
+"name": "31.1M",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=1&classId=13a1e53c-34ce-4d47-bd1e-88a81dfa22cc"
+},
+{
+"name": "31.2M",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=1&classId=9100d7a1-3388-42d8-8c77-3dd25039f856"
+},
+{
+"name": "33E",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=1&classId=97e9f1d0-8d2d-4ef6-90ac-58274db76a9c"
+},
+{
+"name": "34.1M",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=1&classId=07fc6599-2489-4b64-a0fb-67e22b9af336"
+},
+{
+"name": "34.2M",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=1&classId=d2e3c277-437e-4963-8397-5c91350e6a93"
+},
+{
+"name": "34.3M",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=1&classId=342c7eb4-b6b3-48a9-bb2c-84ea0e56fa82"
+},
+{
+"name": "34M-JP-1",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=1&classId=d8dbb663-d4b7-4b17-bebb-caac63267ee4"
+},
+{
+"name": "34M-JP-2",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=1&classId=756cf077-1c7b-44e4-850b-8b634e94d77f"
+},
+{
+"name": "34M-QAP",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=1&classId=ae2775bc-9ede-450a-9f4c-099ba0ce608d"
+},
+{
+"name": "35E",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=1&classId=9b345033-3ca9-401f-8a17-d4f88e63bc2d"
+},
+{
+"name": "35E-JP",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=1&classId=7ac60041-f1ec-4f8e-bcbb-394cf47bb083"
+},
+{
+"name": "36E",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=1&classId=7ad86967-fb9f-4a77-985b-40cda9b79d59"
+},
+{
+"name": "37.1M",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=1&classId=433139c3-f966-4c6b-8929-e573d9e60659"
+},
+{
+"name": "37.2M",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=1&classId=466b72df-633e-4707-bc00-c948750295ad"
+},
+{
+"name": "38E",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=1&classId=577873e7-3a75-452e-9349-29434d955c5e"
+},
+{
+"name": "39.1E",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=1&classId=7b457139-88ec-48d2-893e-5613a792f0f3"
+},
+{
+"name": "39.2E",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=1&classId=c5468c82-722f-4349-8d33-5f2e023facf2"
+},
+{
+"name": "40.1M",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=1&classId=1ff22a61-1fc8-4c21-b42f-997f3cfd5d4f"
+},
+{
+"name": "40.2M",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=1&classId=7d808692-b676-4f2c-b009-d4f3526fa5dc"
+},
+{
+"name": "41E",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=1&classId=1f6f5b63-eb45-43ce-836d-53ee1cf13619"
+},
+{
+"name": "42.1EL",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=1&classId=c0a887df-2c2d-485e-bb93-d6c52f819c88"
+},
+{
+"name": "42.2ELL",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=1&classId=93b3616f-72fe-45b1-935f-140029bd9508"
+},
+{
+"name": "42.3ELL",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=1&classId=a3a67579-d1f9-4201-81c9-e48502bfe9d9"
+},
+{
+"name": "43M",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=1&classId=9e1546b0-b589-4863-b3fd-1faba26c1a73"
+},
+{
+"name": "44E",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=1&classId=78a87aa7-ddab-4430-912b-3422c8962dd4"
+},
+{
+"name": "45.1EL",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=1&classId=e41cf670-3c8a-4884-87b4-580464f8dbdf"
+},
+{
+"name": "45.2ELL",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=1&classId=47a24537-187a-4ddf-91d1-c1d4c3894c50"
+}
+],
+teachers: [
+{
+"name": "Alisher Khamidov",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=2&teacherId=6e1b248d-be00-4e63-b1c7-59a218448f38"
+},
+{
+"name": "Nadezhda Zolotykh",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=2&teacherId=bf68178e-92cf-4208-aec3-a943167e2b9e"
+},
+{
+"name": "Andrey Belov",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=2&teacherId=e85a7ef8-ba23-4ed6-b1c0-f72ca3924e57"
+},
+{
+"name": "Marsel Sidikov",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=2&teacherId=bf01a1e2-b272-4134-9a85-fd132d528118"
+},
+{
+"name": "Irina Baker",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=2&teacherId=095ad7ca-3c7d-4fc1-b0d2-0181dd5c11db"
+},
+{
+"name": "Vladimir Leonov",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=2&teacherId=4780db44-7e66-479b-8d4b-a7c3b9660b4f"
+},
+{
+"name": "Julia Smirnova",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=2&teacherId=64e7e43b-d71a-4721-8f67-f763a0a43ff3"
+},
+{
+"name": "Pavel Bulich",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=2&teacherId=17d5fe22-f1cf-4f14-9996-f349361c6262"
+},
+{
+"name": "Daniil Tkachenko",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=2&teacherId=948148fa-5be0-4153-af8f-cf8cc1dd7967"
+},
+{
+"name": "Alexey Rudakov",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=2&teacherId=8f2d1bbd-35fc-45b7-85fe-410531a90761"
+},
+{
+"name": "Kristina Tomash",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=2&teacherId=65725f3d-b560-45f4-a6d4-d1d3dc61342d"
+},
+{
+"name": "Leonid Kleimann",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=2&teacherId=299c9371-e4f0-4ae6-aa11-d4d29434bcbf"
+},
+{
+"name": "Evgeny Grazhdansky",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=2&teacherId=f4f2b119-b101-418c-8fb2-c329b3cd87a2"
+},
+{
+"name": "Andrej Reutow",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=2&teacherId=da7f9c41-0710-478a-9723-652d5fb3930e"
+},
+{
+"name": "Dmitrii Kuvaldin",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=2&teacherId=7803832b-bbde-4efb-bcab-f8a3c94f211f"
+},
+{
+"name": "Sergey Razin",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=2&teacherId=b0917851-c9df-458d-8cb3-d319fe24b234"
+},
+{
+"name": "Igor Eidelman",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=2&teacherId=fc33f319-4854-487d-9ce8-940ee71c97ce"
+},
+{
+"name": "Andrey Bakhtinov",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=2&teacherId=7ed992ac-d46f-41f7-b7ed-d08f98f0db08"
+},
+{
+"name": "Stanislav Perminov",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=2&teacherId=acf1773e-f7e3-4f55-a5c4-b8a0c4643841"
+},
+{
+"name": "Andrey Pomelov",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=2&teacherId=464be68c-1d0c-4ca9-8f75-fc21e740f857"
+},
+{
+"name": "Gleb Zavertayev",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=2&teacherId=dae6b04f-327e-4275-a41c-475b6fc331d2"
+},
+{
+"name": "Igor Zimmermann",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=2&teacherId=8e59e167-dc8b-4c21-b3ba-d06d509284a9"
+},
+{
+"name": "Edward Fish",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=2&teacherId=767ef2b8-e42d-436e-9484-d86541e66a99"
+},
+{
+"name": "Sergey Iryupin",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=2&teacherId=a46b741f-e0ee-44b0-9c9f-56f47b6fc7ee"
+},
+{
+"name": "IlyasM",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=2&teacherId=9571fb2f-de58-40af-bc7c-20e3d43f0997"
+},
+{
+"name": "Sergey Bugaenko",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=2&teacherId=4221fce3-fd77-4913-acef-c8b90953bb6c"
+},
+{
+"name": "Mikhail Smokotnin",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=2&teacherId=9960c6aa-aeb9-47cd-9c20-e547510c452a"
+},
+{
+"name": "Nelli Efremyan",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=2&teacherId=42641515-259b-4d49-8063-7b74695debb2"
+},
+{
+"name": "Emin Karapetyan",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=2&teacherId=b6d2962d-5d01-4f02-9dad-583136685bd7"
+},
+{
+"name": "Artyom Bakharev",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=2&teacherId=f6ca4743-7626-4400-b7ec-79dabc715624"
+},
+{
+"name": "Karlen Agababyan",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=2&teacherId=97e4756e-36ed-4f36-9beb-3dbb3d0afea5"
+},
+{
+"name": "Hayk Inants",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=2&teacherId=803da00d-375a-4742-ae18-0246793c824c"
+},
+{
+"name": "Ilya Tkachov",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=2&teacherId=24f9ced1-558c-4a3d-bde2-14e9cea2fa3e"
+},
+{
+"name": "Ekaterina Zavertyaeva",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=2&teacherId=adb0e568-9f92-49f3-9c5d-9d6c6a67cf40"
+},
+{
+"name": "Vitaliy Vinnik",
+"src": "https://primetimetable.com/publish/?id=e189aba9-787f-463e-849d-7a372dfd4788&v=1&time=6&skin=3#id=e189aba9-787f-463e-849d-7a372dfd4788&view=2&teacherId=7f13e38a-211c-40cf-b81c-675e19ccf3b7"
+}
+]
+}

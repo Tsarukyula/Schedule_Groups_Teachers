@@ -34,8 +34,9 @@ public class ScheduleWriterTest extends TestBase{
                 "42.3ELL", "43M", "44E", "45.1EL", "45.2ELL");
 
         try (FileWriter writer = new FileWriter("schedule.txt", true)) {
-            writer.write("----- Group Schedule -----\n\n");
-            for (String groupName : groupNames) {
+            writer.write("Schedule = {\n groups: [\n");
+            for (int i = 0; i < groupNames.size(); i++) {
+                String groupName = groupNames.get(i);
                 groupsPage.navigateTo();
                 List<WebElement> groupElements = groupsPage.getGroupElements(groupName);
 
@@ -47,8 +48,13 @@ public class ScheduleWriterTest extends TestBase{
                         wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//div[contains(text(),'AIT-TR (Berlin) - " + groupName + "')]")));
                         String groupUrl = driver.getCurrentUrl();
 
-                        writer.write("Group Name: " + groupNameText + "\n");
-                        writer.write("Group Link: " + groupUrl + "\n\n");
+                        writer.write("{\n\"name\": \"" + groupNameText + "\",\n");
+                        writer.write("\"src\": \"" + groupUrl + "\"\n}");
+
+                        if (i != groupNames.size() - 1) {
+                            writer.write(","); // Не последний элемент в списке
+                        }
+                        writer.write("\n"); // Последний элемент в списке
 
                         driver.navigate().back();
                         wait.until(ExpectedConditions.visibilityOfAllElementsLocatedBy(By.xpath("//div[contains(text(), '" + groupName + "')]")));
@@ -58,7 +64,8 @@ public class ScheduleWriterTest extends TestBase{
                     }
                 }
             }
-            System.out.println("Группы успешно добавлены в файл schedule.txt");
+            writer.write("],\n");
+            System.out.println("Группы добавлены в файл schedule.txt");
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -76,9 +83,9 @@ public class ScheduleWriterTest extends TestBase{
         teachersPage.navigateTo();
 
         try (FileWriter writer = new FileWriter("schedule.txt", true)) {
-            writer.write("----- Teacher Schedule -----\n\n");
-            for (String teacherName : teacherNames) {
-                List<WebElement> teacherElements = teachersPage.getTeacherElements(teacherName);
+            writer.write("teachers: [\n");
+            for (int i = 0; i < teacherNames.size(); i++) {
+                List<WebElement> teacherElements = teachersPage.getTeacherElements(teacherNames.get(i));
 
                 for (WebElement teacherElement : teacherElements) {
                     try {
@@ -86,17 +93,24 @@ public class ScheduleWriterTest extends TestBase{
                         teacherElement.click();
                         String teacherUrl = driver.getCurrentUrl();
 
-                        writer.write("Teacher Name: " + teacherNameText + "\n");
-                        writer.write("Teacher Link: " + teacherUrl + "\n\n");
+                        writer.write("{\n\"name\": \"" + teacherNameText + "\",\n");
+                        writer.write("\"src\": \"" + teacherUrl + "\"\n}");
+
+                        if (i < teacherNames.size() - 1) {
+                            writer.write(",\n"); // Не последний элемент в списке
+                        } else {
+                            writer.write("\n"); // Последний элемент в списке
+                        }
 
                         driver.navigate().back();
                     } catch (NoSuchElementException e) {
-                        System.out.println("Элемент с преподавателем " + teacherName + " не найден на странице.");
+                        System.out.println("Элемент с преподавателем " + teacherNames.get(i) + " не найден на странице.");
                         continue;
                     }
                 }
             }
-            System.out.println("Преподаватели успешно добавлены в файл schedule.txt");
+            writer.write("]\n}");
+            System.out.println("Преподаватели добавлены в файл schedule.txt");
         } catch (IOException e) {
             e.printStackTrace();
         }
